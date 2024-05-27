@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\bin\Debug\net8.0\AppFor.exe
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\bin\Debug\net8.0\AppFor.deps.json
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\bin\Debug\net8.0\AppFor.runtimeconfig.json
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\bin\Debug\net8.0\AppFor.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\bin\Debug\net8.0\AppFor.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\refint\AppFor.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\AppFor.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\Task4(for)\AppFor\AppFor\obj\Debug\net8.0\ref\AppFor.dll
